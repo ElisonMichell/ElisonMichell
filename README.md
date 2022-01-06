@@ -1,4 +1,6 @@
-### Olá Devs! ✌️ Eu sou Elison Michell! Dev Front-End e Apaixonado por Programação! ❤️
+<div>
+  <img width="100%" src="https://user-images.githubusercontent.com/97061419/148319314-01d6102e-6d14-472b-ad40-8882ff688298.gif">
+</div>
 
 <div style="display: inline_block">
   <a href="https://github.com/ElisonMichell">
