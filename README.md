@@ -14,9 +14,9 @@
 </div>
 
 <div>
-  <a href="https://github.com/ElisonMichell">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ElisonMichell&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisonMichell&layout=compact&langs_count=7&theme=vue-dark&border_radius=2px"/>
+  <a style="display: inline-block" href="https://github.com/ElisonMichell">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ElisonMichell&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisonMichell&layout=compact&langs_count=7&theme=vue-dark&border_radius=2px"/>
 </div>
   
 ##
