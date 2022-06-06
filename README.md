@@ -9,8 +9,9 @@
   <a href="https://www.linkedin.com/in/dev-elison-michell/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img height="28em" src="https://komarev.com/ghpvc/?username=ElisonMichell&style=flat-square&color=00ff84"/>
   
-   ## I am a front-end developer and designer, i love programming, gaming and tech. ❤️
   <img width="100%" src="/assets/separator.png">
+  
+   ## I am a front-end developer and designer, i love programming, gaming and tech. ❤️
 </div>
 
 <div>
@@ -22,9 +23,9 @@
 ##
 
 <div>
+  <img width="100%" src="/assets/separator.png">
   
   ## 😳 About me
-  <img width="100%" src="/assets/separator.png">
 </div>
 
 ```js
@@ -33,27 +34,42 @@
     born: "31/03/1997 in São Paulo Brazil",
     nationality: "Brazilian",
     role: "FrontEnd",
-    hobbies: ["Play/Develop Games", "Watch Animes/Formula-1"],
-    currentCompany: "LifeJr",
+    hobbies: ["Play/Develop Games", "Watch Animes/Formula-1"]
   }
   
 ```
-
-<div>
   
-  ## 👊 Goals for 2022
+<div>
   <img width="100%" src="/assets/separator.png">
   
-  * 📚 Complete all free front-end courses from **Free Coding Camp**.
-  * 📖 Trying my best every day, I'm studying to get my first paid **job**.
-  * 🤡 Become good enough in **Javascript** to be able to create my own React. 
-  * 🖥 Build my dream PC with **A LOT** of leds. 
+  ## 📚 What am I studying in 2022
+  
+  * HTML
+  * CSS
+  * JS
+  * React
+  * Data Structure
+  * Node
+  * SQL
 </div>
   
 <div>
+  <img width="100%" src="/assets/separator.png">
+  
+  ## 🎓 Complete courses
+  
+  - [x] Rocketseat - Discover's path Fundamentar.
+  - [x] Rocketseat - Discover's path Conectar.
+  - [ ] Rocketseat - Discover's path Especializar.
+  - [ ] Free Code Camp - Rensponsive Web Desing.
+  - [ ] Free Code Camp - Javascript Algorithms and Data Structures.
+  - [ ] Free Code Camp - Front End Development Libraries.
+</div>
+  
+<div>
+  <img width="100%" src="/assets/separator.png">
   
   ## 🛠️ My Dev Toolbelt
-  <img width="100%" src="/assets/separator.png">
 </div>
   
 <div>
@@ -69,6 +85,7 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </div>
 
 <div>
@@ -82,9 +99,9 @@
 </div>
   
 <div>
+  <img width="100%" src="/assets/separator.png">
   
   ## 🖥️ My Setup
-  <img width="100%" src="/assets/separator.png">
   
   ![Acer](https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -97,4 +114,5 @@
   * Memory: 4GB RAM.
   * Storage: HDD 256GB.
   * Operating System: Windows 10 Home 64 bits.
+  <img width="100%" src="/assets/separator.png">
 </div>
