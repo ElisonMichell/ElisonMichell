@@ -4,7 +4,6 @@
 
 <div>
   
-  <a href="https://instagram.com/e_michell1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dev.elisonmichell@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dev-elison-michell/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img height="28em" src="https://komarev.com/ghpvc/?username=ElisonMichell&style=flat-square&color=00ff84"/>
@@ -44,26 +43,31 @@
   
   ## 📚 What am I studying in 2022
   
-  * HTML
-  * CSS
   * JS
   * React
   * Data Structure
   * Node
   * SQL
+  * Typescript
+  * REST API consumption with Fetch
+  * REST API consumption with Axios
+  * GraphQL API consumption with Apollo
+  * Tailwind
 </div>
   
 <div>
   <img width="100%" src="/assets/separator.png">
   
-  ## 🎓 Complete courses
+  ## 🎓 Complete courses and Events
   
-  - [x] Rocketseat - Discover's path Fundamentar.
-  - [x] Rocketseat - Discover's path Conectar.
-  - [ ] Rocketseat - Discover's path Especializar.
-  - [ ] Free Code Camp - Rensponsive Web Desing.
-  - [ ] Free Code Camp - Javascript Algorithms and Data Structures.
-  - [ ] Free Code Camp - Front End Development Libraries.
+  - ✔️ Rocketseat - Discover's path Fundamentar.
+  - ✔️ Rocketseat - Discover's path Conectar.
+  - ✔️ Rocketseat - Discover's path Especializar.
+  - ✔️ Rocketseat - Explorer marathon.
+  - ✔️ Rocketseat - Ignite Lab React.
+  - Free Code Camp - Rensponsive Web Desing.
+  - Free Code Camp - Javascript Algorithms and Data Structures.
+  - Free Code Camp - Front End Development Libraries.
 </div>
   
 <div>
@@ -80,6 +84,10 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![Vite](https://img.shields.io/badge/-Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
+  ![Apollo](https://img.shields.io/badge/Apollo-311C87.svg?style=for-the-badge&logo=apollographql&logoColor=white)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
