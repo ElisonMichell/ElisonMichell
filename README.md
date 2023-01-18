@@ -43,12 +43,11 @@
   
   ## 📚 What am I studying in 2022
   
-  * JS
+  * NextJS
   * React
-  * Data Structure
-  * Node
-  * SQL
+  * JS
   * Typescript
+  * Styled Components
   * REST API consumption with Fetch
   * REST API consumption with Axios
   * GraphQL API consumption with Apollo
