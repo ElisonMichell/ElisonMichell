@@ -24,7 +24,7 @@
 <div>
   <img width="100%" src="/assets/separator.png">
   
-  ## 😳 About me
+  ## 😎 About me
 </div>
 
 ```js
@@ -41,17 +41,11 @@
 <div>
   <img width="100%" src="/assets/separator.png">
   
-  ## 📚 What am I studying in 2022
+  ## 📚 What am I studying in 2023
   
   * NextJS
-  * React
-  * JS
-  * Typescript
-  * Styled Components
-  * REST API consumption with Fetch
-  * REST API consumption with Axios
-  * GraphQL API consumption with Apollo
-  * Tailwind
+  * NodeJS
+  * Express
 </div>
   
 <div>
@@ -64,9 +58,6 @@
   - ✔️ Rocketseat - Discover's path Especializar.
   - ✔️ Rocketseat - Explorer marathon.
   - ✔️ Rocketseat - Ignite Lab React.
-  - Free Code Camp - Rensponsive Web Desing.
-  - Free Code Camp - Javascript Algorithms and Data Structures.
-  - Free Code Camp - Front End Development Libraries.
 </div>
   
 <div>
@@ -76,33 +67,39 @@
 </div>
   
 <div>
-
-  ### 🔢 Programming
+  
+  ### 🌝 Front-end
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![REST](https://img.shields.io/badge/-REST%20api-058dc9?style=for-the-badge&logo=artifact-hub&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   ![Vite](https://img.shields.io/badge/-Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
   ![Apollo](https://img.shields.io/badge/Apollo-311C87.svg?style=for-the-badge&logo=apollographql&logoColor=white)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+  ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-a259ff.svg?style=for-the-badge&logo=figma&logoColor=white)
+</div
+  
+<div>
+
+  ### 🌚 Back-end
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+</div>
+  
+<div>
+
+  ### 🔢 Programming
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-</div>
-
-<div>
-
-  ### 🎮 Game Dev
-  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-  ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 </div>
   
 <div>
