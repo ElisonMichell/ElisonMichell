@@ -79,8 +79,9 @@
   ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![REST](https://img.shields.io/badge/-REST%20api-058dc9?style=for-the-badge&logo=artifact-hub&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![Vite](https://img.shields.io/badge/-Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
   ![Apollo](https://img.shields.io/badge/Apollo-311C87.svg?style=for-the-badge&logo=apollographql&logoColor=white)
+  ![Vite](https://img.shields.io/badge/-Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
+  ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
   ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-a259ff.svg?style=for-the-badge&logo=figma&logoColor=white)
 </div
